@@ -79,6 +79,6 @@
 |Shambhu Chadana | Zarxeon | IIIT ALLAHABAD
 | Deepali Kumari | deepali-kumari-iitp | IIT Patna |
 | Chithra R | Chithra582 | CIT |
-
+| Varshil Patel | Varshil-0101 | IIIT Allahabad 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
